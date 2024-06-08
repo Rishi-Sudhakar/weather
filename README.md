@@ -21,6 +21,12 @@ Now, you can just double click on the HTML file to run it locally in your device
 
 ## Some Screenshots
 
+![Screenshot 2024-06-08 at 9 19 59 PM](https://github.com/Rishi-Sudhakar/weather/assets/79398572/2b9f3e38-92bf-4532-93b6-c6002ee8d04a)
+
+![Screenshot 2024-06-08 at 9 20 41 PM](https://github.com/Rishi-Sudhakar/weather/assets/79398572/6f707434-ce7a-48f0-8841-12e22adee7c8)
+
+![Screenshot 2024-06-08 at 9 21 11 PM](https://github.com/Rishi-Sudhakar/weather/assets/79398572/ae867b2c-03a9-4d43-965f-ac11cc19a579)
+
 
 
 ## Acknowledgments
